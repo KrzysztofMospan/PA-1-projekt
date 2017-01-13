@@ -1,0 +1,9 @@
+c:\users\said\documents\visual studio 2010\Projects\Silnik-serwer_mk2\Silnik-serwer_mk2\obj\x86\Debug\Silnik_serwer_mk2.Form1.resources
+c:\users\said\documents\visual studio 2010\Projects\Silnik-serwer_mk2\Silnik-serwer_mk2\obj\x86\Debug\Silnik_serwer_mk2.Properties.Resources.resources
+c:\users\said\documents\visual studio 2010\Projects\Silnik-serwer_mk2\Silnik-serwer_mk2\obj\x86\Debug\Silnik-serwer_mk2.csproj.GenerateResource.Cache
+c:\users\said\documents\visual studio 2010\Projects\Silnik-serwer_mk2\Silnik-serwer_mk2\bin\Debug\Silnik-serwer_mk2.exe
+c:\users\said\documents\visual studio 2010\Projects\Silnik-serwer_mk2\Silnik-serwer_mk2\bin\Debug\Silnik-serwer_mk2.pdb
+c:\users\said\documents\visual studio 2010\Projects\Silnik-serwer_mk2\Silnik-serwer_mk2\obj\x86\Debug\Silnik-serwer_mk2.exe
+c:\users\said\documents\visual studio 2010\Projects\Silnik-serwer_mk2\Silnik-serwer_mk2\obj\x86\Debug\Silnik-serwer_mk2.pdb
+C:\Users\Said\Documents\Visual Studio 2010\Projects\Sylulator silnika krokowego\Silnik-serwer_mk2\Silnik-serwer_mk2\obj\x86\Debug\Silnik-serwer_mk2.exe
+C:\Users\Said\Documents\Visual Studio 2010\Projects\Sylulator silnika krokowego\Silnik-serwer_mk2\Silnik-serwer_mk2\obj\x86\Debug\Silnik-serwer_mk2.pdb
